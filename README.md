@@ -7,11 +7,11 @@ A data visualization application of the United States using D3.js
 <a href="https://www.ers.usda.gov/data-products/county-level-data-sets/download-data.aspx">USDA United States Educational Attainment</a>
 
 ## Why
-The purpose of this project was to write a program that visualizes geopspatial data using D3.js. In this case, I used census data from the USDA.
+The purpose of this project was to write a program that visualizes geopspatial data using D3.js. For this project, I used census data from the USDA.
 
 ## Features
-- Users can input multiple raster files
-- Users can choose the statistic they wish to calculate
+- users can explore data at the county level
+- Users can explore data percentages by hovering over each county
 
 ## Demo
 Link to <a href="https://bstefansen.github.io/choropleth-map/" target="_blank">Production Build</a>
