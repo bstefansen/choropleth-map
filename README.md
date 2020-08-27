@@ -10,7 +10,7 @@ A data visualization application of the United States using D3.js
 The purpose of this project was to write a program that visualizes geopspatial data using D3.js. For this project, I used census data from the USDA.
 
 ## Features
-- users can explore data at the county level
+- Users can explore data at the county level
 - Users can explore data percentages by hovering over each county
 
 ## Demo
