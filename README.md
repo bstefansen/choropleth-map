@@ -4,10 +4,10 @@ A data visualization application of the United States using D3.js
 ![Zonal Stats Calculator Screenshot](https://bstefansen.github.io/Portfolio/images/choropleth.JPG)
 
 ## Data Source
-Represents United States Educational Attainment
+<a href="https://www.ers.usda.gov/data-products/county-level-data-sets/download-data.aspx">United States Educational Attainment</a>
 
 ## Why
-The purpose of this project was to write a program that automates “Zonal Statistics as Table” calculations in ArcGIS where multiple input value rasters are being used to calculate the same statistics.
+The purpose of this project was to write a program that visualizes geopspatial data using D3.js. In this case, I used census data from the USDA.
 
 ## Features
 - Users can input multiple raster files
