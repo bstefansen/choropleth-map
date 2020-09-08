@@ -2,9 +2,12 @@ html {
   text-align: center;
   background-color: silver;
   font-family: sans-serif;
+  margin: 1em;
 }
 #main {
-  width: 1800px;
+  width: 100%;
+  min-width: 1080px;
+  min-height: 200px;
   background-color: rgba(0, 0, 0, .4);
   margin: auto;
   margin-top: 1em;
@@ -38,14 +41,15 @@ html {
     pointer-events: none;			
 }
 #footer, a {
+  min-width: 1080px;
   color: blue;
-  margin: 2em;
+  margin: 1em;
   font-weight: bold;
 }
 #source {
   margin: auto;
   position: relative;
-  bottom: 50px;
+  bottom: 70px;
   color: white;
   font-weight: bold;
 }
